@@ -1,5 +1,5 @@
 # 💫 About Me:
-Building and learning along the way.<br>Always tinkering with code, projects, open source and new tech.<br>Currently exploring : Cyber Security, Full-Stack Development, AI assisted development and Networking.
+Building and learning along the way.<br>Always tinkering with code, projects, open source and new tech.<br>Currently exploring : Cyber Security, Full-Stack Development and Networking.
 
 
 ## 🌐 Socials:
